@@ -123,6 +123,11 @@ Desenvolvido por **Seu Nome**
 
 ---
 
+## 🔗 Link do Repositório
+
+[Acesse o projeto no GitHub](https://github.com/Jhamyllie/PDV)
+
+
 ## 📄 Licença
 
 Este projeto está sob a licença MIT. Sinta-se à vontade para usar, modificar e compartilhar!

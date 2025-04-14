@@ -1,0 +1,9 @@
+Link do repositório, que também consta no README do projeto:
+https://github.com/seu-usuario/seu-repositorio
+
+Estou mandando um arquivo zip, pois optei por não fazer um joguinho e sim uma aplicação
+que vou continuar aprimorando para neu uso pessoal.
+
+Observações:
+- O backend usa Flask e PostgreSQL
+- O frontend é feito com HTML, CSS e JavaScript
